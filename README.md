@@ -2,22 +2,27 @@
 
 [Connect with me on LinkedIn](YOUR_LINKEDIN_URL_HERE)
 
-## Programming Languages
+## Programming & Query Languages
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,python,java)](https://skillicons.dev)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Frontend Technologies
+## Frontend & TypeScript Ecosystem
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite)](https://skillicons.dev)
+
+![Effect](https://img.shields.io/badge/Effect-000000?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 ## Backend Technologies
 
 [![Backend](https://skillicons.dev/icons?i=django,fastapi,spring,nodejs,express,graphql)](https://skillicons.dev)
 
-## Databases & Tools
+## Databases & Version Control
 
-[![Databases and Tools](https://skillicons.dev/icons?i=postgres,mongodb,git,github,linux)](https://skillicons.dev)
+[![Databases and Version Control](https://skillicons.dev/icons?i=postgres,mongodb,git,github,gitlab)](https://skillicons.dev)
 
 ## Testing
 
@@ -27,5 +32,5 @@
 
 ## Infrastructure & Deployment
 
-[![Infrastructure](https://skillicons.dev/icons?i=docker,aws,terraform,githubactions,nginx)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=linux,docker,aws,terraform,githubactions,heroku)](https://skillicons.dev)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
